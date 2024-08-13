@@ -1,7 +1,5 @@
 # Robot-Simulations-using-RoboDk
-Here's a detailed overview for the project "Simulation of a KUKA Industrial Robot," including the aim and key points:
 
-## Project Overview: Simulation of a KUKA Industrial Robot
 
 ### Aim of the Project
 
